@@ -1,0 +1,31 @@
+# Local Netlify folder
+.netlify
+
+# Local media-generation and QA working files
+assets/*-motion.mp4
+assets/linen-bg.png
+assets/video-silent.mp4
+assets/voice-pro.mp3
+assets/*-filter.txt
+assets/build-audio.cmd
+qa-*.png
+hero.png
+voice.mp3
+patch_index.py
+make_svg.py
+dev_patch.py
+check-cf.ps1
+configure-dns.cmd
+domain.json
+get-dns.cmd
+get-site.cmd
+scan-env-keys.ps1
+set-domain*.cmd
+set-domain*.ps1
+show-site-status.ps1
+site-status.json
+patch_can.py
+fine_can.py
+fit_can.py
+assets/can.png
+assets/audio-filter.txt

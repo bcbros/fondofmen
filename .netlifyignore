@@ -1,0 +1,14 @@
+.git/
+.netlify/
+qa-*.png
+hero.png
+voice.mp3
+*.py
+*.cmd
+site-status.json
+assets/*-motion.mp4
+assets/linen-bg.png
+assets/video-silent.mp4
+assets/voice-pro.mp3
+assets/*-filter.txt
+assets/can.png
