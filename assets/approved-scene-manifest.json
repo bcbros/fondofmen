@@ -1,0 +1,39 @@
+{
+  "project": "FONDOFMEN-PRODUCTION-002",
+  "source": "Owner-approved Google Drive campaign scenes",
+  "ingested_utc": "2026-10-02",
+  "files": [
+    {
+      "role": "site hero",
+      "name": "fondofmen-site-hero.png",
+      "drive_file_id": "19nu2rODL_Mod49g7Qv034C33gazg4MRM",
+      "bytes": 2139836,
+      "dimensions": "1672x941",
+      "sha256": "FA3AFADDB71A1DB54724AC1E23F8E55DEE8C8ABFCA0BCB974F93C0203B008322"
+    },
+    {
+      "role": "lifestyle scene",
+      "name": "fondofmen-lifestyle-scene.png",
+      "drive_file_id": "1P5izLoGymkxnFbF2zUHQCIWmvYP-rGex",
+      "bytes": 2102770,
+      "dimensions": "1672x941",
+      "sha256": "151F8E9584E81DB84473FB5D8C25E520FF611CAAD1253BA4E5CFEECC86CEB0D1"
+    },
+    {
+      "role": "nozzle macro",
+      "name": "fondofmen-nozzle-macro.png",
+      "drive_file_id": "1Wj3ojhHAYO9SB_e7JNI5mfn_10bsMvvH",
+      "bytes": 2197292,
+      "dimensions": "1254x1254",
+      "sha256": "08D76D9CFB134E44966A8EAFD76CE7D50BC31247F1994B8B8A52D9AA709092BC"
+    },
+    {
+      "role": "campaign endcard",
+      "name": "fondofmen-video-endcard.png",
+      "drive_file_id": "1TaLBWUQHKbhSroH4OgTs5gSPCizkE5TL",
+      "bytes": 2216527,
+      "dimensions": "1672x941",
+      "sha256": "94F6BE48F4D10BF342160AF899C94730845768DD271AA1717FB863253EC0F6ED"
+    }
+  ]
+}
